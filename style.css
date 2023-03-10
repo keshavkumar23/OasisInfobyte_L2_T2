@@ -1,0 +1,44 @@
+body{
+    background: rgb(245, 244, 244);
+}
+.con1{
+    text-align: center;
+    padding: 20px 0;
+}
+.con1 img{
+    height: 50vh;
+    width: 30vw;
+}
+h2{
+    text-align: center;
+}
+.con2{
+    width: 70vw;
+    display: block;
+    margin: auto;
+}
+.heading{
+    font-size: 2rem;
+}
+.content{
+    font-size: 1.4rem;
+}
+blockquote{
+    font-family: Special Elite, sans-serif;
+    font-size: 1.4rem;
+    width: 60vw;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+blockquote p{
+    padding: 10px;
+    text-align: center;
+    background: rgb(214, 213, 213);
+}
+blockquote cite{
+    font-family: Noto Sans JP, sans-serif;
+    font-size: 1.2rem;
+}
